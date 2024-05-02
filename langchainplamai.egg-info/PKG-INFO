@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: langchainplamai
+Version: 0.0.1
+Author: Naveen alla
+Author-email: naveenalla3000@gmail.com
+Requires-Dist: langchain_google_genai
+Requires-Dist: chainlit
+Requires-Dist: python-dotenv
+Requires-Dist: chainlit
