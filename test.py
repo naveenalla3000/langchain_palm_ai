@@ -1,2 +1,3 @@
 from src.langchainplamai.logger import logging
-logging.info('Hello, World!')
+import platform
+logging.info(platform.python_version())
